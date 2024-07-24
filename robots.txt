@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bamopice.github.io/sitemap
+Sitemap: https://bamopice.github.io/app/sitemap
+Sitemap: https://bamopice.github.io/assets/sitemap
+Sitemap: https://bamopice.github.io/css/sitemap
+Sitemap: https://bamopice.github.io/includes/sitemap
+Sitemap: https://bamopice.github.io/item/sitemap
+Sitemap: https://bamopice.github.io/src/sitemap
